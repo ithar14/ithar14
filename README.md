@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/1t40r" target="blank"><img src="https://img.shields.io/twitter/follow/1t40r?logo=twitter&style=for-the-badge" alt="1t40r" /></a> </p>
 
-- 🔭 I’m currently working on **notes app**
+- 🔭 I’m currently working on **Portfolio**
 
 - ⚡ Fun fact **Introvert**
 
