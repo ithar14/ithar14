@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ithar14&label=Profile%20views&color=0e75b6&style=flat" alt="ithar14" /> </p>
 
-<p align="left"> <a href="https://twitter.com/1t40r" target="blank"><img src="https://img.shields.io/twitter/follow/1t40r?logo=twitter&style=for-the-badge" alt="1t40r" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/1t40r" target="blank"><img src="https://img.shields.io/twitter/follow/1t40r?logo=twitter&style=for-the-badge" alt="1t40r" /></a> </p>-->
 
 - 🔭 I’m currently working on **Portfolio**
 
