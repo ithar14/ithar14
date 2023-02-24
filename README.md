@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithar14&layout=compact&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ithar14&hide=jupyter%20notebook,html,css&show_icons=true&locale=en&layout=compact" alt="ithar14" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ithar14&hide=jupyter%20notebook,html,css,Tex&show_icons=true&locale=en&layout=compact" alt="ithar14" /></p>
 
 <!--<p align="left"> <a href="https://twitter.com/1t40r" target="blank"><img src="https://img.shields.io/twitter/follow/1t40r?logo=twitter&style=for-the-badge" alt="1t40r" /></a> </p>-->
 <!--
